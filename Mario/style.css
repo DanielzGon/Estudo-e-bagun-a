@@ -16,7 +16,7 @@ box-sizing: border-box;
     bottom: 0;
     width: 80px;
     left: 120px;
-    animation: pipe-animation 2s infinite linear;
+    animation: pipe-animation 1.5s infinite linear;
 }
 
 .mario{
