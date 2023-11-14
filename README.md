@@ -1,2 +1,2 @@
-# Estudo-e-bagun-a
-esses códigos são dos meus estudo sozinho, provavelmente a noite sem nada pra fazer
+# Projetos aleatórios
+esses projetos são dos meus estudo sozinho, provavelmente à noite sem nada pra fazer em alguma ocasião aleatória
