@@ -24,7 +24,7 @@ app.post('/resultados', (req, res) => {
     var pesoInteiro = parseInt(peso)
     var quantAgua = pesoInteiro * 35;
     var quantCreatina = parseFloat((pesoInteiro * 0.07).toFixed(1));
-    var quantProteina = pesoInteiro * 1.8;
+    var quantProteina = parseFloat((pesoInteiro * 1.8).toFixed(1));
 
 
     res.render('resultados', { quantAgua, quantCreatina, quantProteina });
