@@ -4,3 +4,4 @@ clonar o repositório pelo seu terminal digitando: (git clone https://github.com
 abrir a pasta do projeto digitando no terminal: (cd CauculadoraGym)
 baixar as dependências necessarias: (npm i express ejs),
 rodar o servidor digitando no seu terminal: node servidor.js
+abrir seu navegador e digitar o endereço: (localhost:4444)
